@@ -1,0 +1,7 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Software de dominio público
+<#if licenseLast??>
+${licenseLast}
+</#if>
